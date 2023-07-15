@@ -147,54 +147,7 @@ body {
     color: rgba(36, 36, 36, 1);
 }
 
-/* .c2 {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-   margin-top: 171px;
-    padding-bottom: 250px;
 
-}
-
-
-
-.header__wrapper__title-text1 {
-
-    font-family: var(--fm-2);
-    font-size: 23px;
-    font-style: normal;
-    font-weight: 700;
-    line-height: 130%;
-    
-     letter-spacing: 0.92px;
-    text-transform: capitalize;
-    color: var(--white);
-} 
-
-.header__wrapper__title-text2 {
-    color: #FFF;
-    font-family: var(--fm-1);
-    font-size: 90px;
-    max-width: 555px;
-    width: 100%;
-    font-weight: 700;
-    line-height: 130%;
- 
-    letter-spacing: 3.6px;
-    text-transform: capitalize;
-}
-
-.header__wrapper__title-text3 {
-    color: #FFF;
-    font-family: var(--fm-1);
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 175%;
-    
-    letter-spacing: 0.64px;
-    width: 100%;
-    max-width: 453px;
- }  */
 .icons {
     width: 100px;
     display: flex;
@@ -1324,9 +1277,11 @@ main {
     margin-bottom: 40px;
 }
 
-.about {
-    text-align: center;
-    
+.about_us{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
 
 .about__text {
@@ -1360,8 +1315,11 @@ main {
     max-width:720px ;
     width: 100%;
 }
+
+
 .ab__img{
-    text-align: right;
+  
 }
+
 
 /* ------------------------------------------------about.html end ----------------------------------------------------------- */
