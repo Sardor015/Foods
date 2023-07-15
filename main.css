@@ -69,6 +69,11 @@ body {
     /* 28px */
     letter-spacing: 0.8px;
     text-transform: capitalize;
+    transition: .5s;
+}
+.header__nav-text:hover {
+    color: black;
+    background: #F8F8F8;
 }
 
 .header_first_text {
