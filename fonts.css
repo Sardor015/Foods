@@ -17,6 +17,36 @@
     src: url(../fonts/Open_Sans/OpenSans-Regular.ttf);
     font-weight: 400;
 }
+@font-face {
+    font-family: "Cera Round Pro";
+    src: url(../fonts/Fontspring-DEMO-ceraroundpro-black.otf);
+    font-weight: 900;
+}
+@font-face {
+    font-family: "Cera Round Pro";
+    src: url(../fonts/Fontspring-DEMO-ceraroundpro-bold.otf);
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Cera Round Pro";
+    src: url(../fonts/Fontspring-DEMO-ceraroundpro-medium.otf);
+    font-weight: 500;
+}
+@font-face {
+    font-family: "Cera Round Pro";
+    src: url(../fonts/Fontspring-DEMO-ceraroundpro-regular.otf);
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Inter";
+    src: url(../fonts/Inter-Medium.ttf);
+    font-weight: 500;
+}
+@font-face {
+    font-family: "Inter";
+    src: url(../fonts/Inter-Regular.ttf);
+    font-weight: 400;
+}
 
 /* OpenSans-CondBold */
 
