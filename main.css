@@ -553,12 +553,8 @@ main {
     background: var(--background);
     color: var(--white);
 
-}
+} 
 
-.c10 {
-    padding: 0 0 0 310px;
-
-}
 
 .poto {
     max-width: 301px;
@@ -682,14 +678,12 @@ main {
 .letter {
     z-index: 99;
     position: absolute;
-    left: 509px;
-    max-width: 902px;
-    width: 100%;
+   
     border-radius: 20px;
     border: 1px solid rgba(255, 255, 255, 0.40);
     box-shadow: 22px 30px 95px 1px rgba(86, 86, 86, 0.20);
     background: var(--background);
-    padding: 64px 0;
+    padding: 64px 250px;
 
 
 }
